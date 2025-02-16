@@ -1,0 +1,2 @@
+# Jagged Array
+The purpose of this project is to learn how to make 2-Dimensional heap allocated arrays that have varying row lengths. This is also one of my first projects to use `make`. To build, make sure you have `gcc` and `make` installed and simply run `make`.
