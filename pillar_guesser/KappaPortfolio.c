@@ -1,5 +1,3 @@
-// gcc KappaPortfolio.c -o out/KappaPillarGuesser
-
 #include <stdio.h>
 #include <limits.h>
 #include <string.h>
